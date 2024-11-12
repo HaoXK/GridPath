@@ -1,1 +1,5 @@
-main dot java
+public class Main
+{
+   
+    }
+
